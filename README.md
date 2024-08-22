@@ -1,7 +1,5 @@
 # HackerHunt
 Just a hacker game!
-# HackerHunt
-Just a hacker game!
 
 Welcome to Hacker Hunt, a Pygame-based game where you play as a white-hat hacker tasked with securing a virtual network. Yow navigate through interconnected nodes, uncover vulnerabilities, and fix them to protect the network from malicious attacks.
 
@@ -40,4 +38,4 @@ Objective
 
 Your goal is to secure as many nodes as possible while preventing network attacks. As you progress, you will unlock new areas and face increasing challenges, testing your skills as an ethical hacker.
 
-Get ready to dive into the world of cybersecurity with Hacker Hunt and protect the virtual network from malicious threats! Happy hacking!
+Get ready to dive into the world of cybersecurity with Hacker Hunt and protect the 
